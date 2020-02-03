@@ -19,7 +19,14 @@ for the language reader to interpret.
 - '**' Two stars make text **bold**.
 
 - '*' One star makes text *italicized*.
-
-- '>' The greater-than symbol adds quotations at the start of the line and around any text that is surrounded by two of them.
-> Example <
-
+  - Note: You can apply both bold and italic to the same ***text***.
+  
+  # Paragraphs
+  
+  Paragraphs in other languages require some sort of specification, but in Markdown you just type your text and it functions as you would expect
+  
+  ## Line Breaks
+  - A line break happens when you put a double-space at the end of the line. You can also use <br/> instead if your prefer.
+  
+  ## Box Quotes
+  - 
