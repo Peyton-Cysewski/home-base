@@ -1,5 +1,4 @@
 # Text Editors
 
-There are two main environments that exist for writing code. The first, and more vanilla way of editing code is in a text editor.
-These environments are more focused on writing the code. Alternative options, called IDE's, are text editors, file
-managers, compilers, and debuggers all in one. 
+There are two main environments that exist for writing code. The first, and more vanilla way of editing code is in a text editor. These environments are more focused on writing the code. Alternative options, called IDE's, are text editors, file
+managers, compilers, and debuggers all in one. Text editors are especially useful for writing code because they offer many shortcuts, tips, and syntax help. A lot of coding is repetitive and it would hurt bottom-line productivity if someone had to continually write the same line(s) of code for every little change. Text editors will see the text that is being written and offer shortcuts to automatically paste in all of the remaining code, free of error. Another thing they do is help with syntax. For examples, if a left angle bracket is typed then it will automatically put in the right angle bracket. Some shortcuts save more time than others, but after hours and hours of coding, it both helps with the sanity of the coder, and also the bottom-line productivity.
