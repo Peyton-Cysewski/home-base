@@ -2,7 +2,7 @@
 
 ## The key to continual learning in any environment is to have a growth mindset. This mindset is revovles primarily around keeping things in perspective and maintaining a postive attitude. Throughout the endeavors of life everyone is struck with moments of frustration, difficulty, lack of focus, or anger. These emotions or feelings often have detrimental effects on learning, often inhibiting it in some way. To counteract these enevitable rough patches of difficulty it is important to employ a few mental strategies:
 
- - Take a step back:
+## - Take a step back:
 ##   Keeping your nose to the grindstone is great, but our brains need breaks, too. A short break can refocus our mind to better take on the task at hand.
 
 ## - Keep things in perspective:
@@ -13,4 +13,4 @@
 
 
 
-### Link to author's page: https://github.com/Peyton-Cysewski
+### Link to author's page [here](https://github.com/Peyton-Cysewski).
