@@ -10,4 +10,16 @@ for the language reader to interpret.
 
 - '#' Hashtags are used for denoting a header. As many as six can be used to start off a line. As the number of hastags increases, the header level decreases. One denotes the biggest header, six the smallest.
 
-- '-' Dash
+- '-' Dash symbols are used for unordered lists.
+  - Example
+
+- '1.' Numbers are used to made ordered lists.
+  1. Example
+
+- '**' Two stars make text **bold**.
+
+- '*' One star makes text *italicized*.
+
+- '>' The greater-than symbol adds quotations at the start of the line and around any text that is surrounded by two of them.
+> Example <
+
