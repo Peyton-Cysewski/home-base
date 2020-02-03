@@ -8,7 +8,7 @@ Keeping your nose to the grindstone is great, but our brains need breaks, too. A
 - Keep things in perspective:
 Coding can be difficult, especially for newcomers, so any difficulties that I face should not lead to discouragement, but to an opportunity to get better at something.
 
-- Don't Compare:
+- Don't compare:
 As humans we all have a tendency to compare ourselves against the person next to us. This can be good sometimes but is more often than a hindrance. A person who is better at coding than me has nothing to do with how much focus and effort I can put into my own work. Focus inward on how I can continue to learn and improve.
 
 
