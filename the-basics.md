@@ -21,17 +21,27 @@ for the language reader to interpret.
 - '*' One star makes text *italicized*.
   - Note: You can apply both bold and italic to the same ***text***.
   
-  # Paragraphs
+# Paragraphs
   
-  Paragraphs in other languages require some sort of specification, but in Markdown you just type your text and it functions as you would expect
+Paragraphs in other languages require some sort of specification, but in Markdown you just type your text and it functions as you would expect
   
-  # Line Breaks
-  - A line break happens when you put a double-space at the end of the line. You can also use <br/> instead if your prefer.
+# Line Breaks
+- A line break happens when you put a double-space at the end of the line. You can also use <br/> instead if your prefer.
   
-  # Block Quotes
-  - They function as indents that highlight some particular text. You most likely have seen this online in articles when someone is quoting another person or article.
-  - '>' at the start of a line denotes a block quote. If there are several paragraphs in a single block quote then you can go to a blank line, intert the character at the start, then insert another one at the start of the next line to signify the next paragraph.
+# Block Quotes
+- They function as indents that highlight some particular text. You most likely have seen this online in articles when someone is quoting another person or article.
+- '>' at the start of a line denotes a block quote. If there are several paragraphs in a single block quote then you can go to a blank line, intert the character at the start, then insert another one at the start of the next line to signify the next paragraph.
 
+# Tables
+- The way to set up a table requires the use of vertical lines '|' and horizontal dashes '-'. There needs to be at least three dashes to signifiy a column header. The verical lines do not need to be placed neatly in the raw markdown code since it will still be rendered nicely. Colons on the left, right, or both sides of the header line denote how the colunms will be alinged. See the example below:
+
+>`Header 1 | Header 2 | Header 3`  
+`---: | :---: | :---`  
+`right | **center** | *left*`
+
+Header 1 | Header 2 | Header 3
+---: | :---: | :---
+right | **center** | *left*
 
 
 
