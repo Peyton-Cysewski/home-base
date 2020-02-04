@@ -31,3 +31,12 @@ for the language reader to interpret.
   # Block Quotes
   - They function as indents that highlight some particular text. You most likely have seen this online in articles when someone is quoting another person or article.
   - '>' at the start of a line denotes a block quote. If there are several paragraphs in a single block quote then you can go to a blank line, intert the character at the start, then insert another one at the start of the next line to signify the next paragraph.
+
+
+
+
+
+
+
+
+#### [Home](README.md)

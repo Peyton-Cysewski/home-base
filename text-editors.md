@@ -6,3 +6,11 @@ managers, compilers, and debuggers all in one. Text editors are especially usefu
 ## Terminal Usage
 - ls meaning 'list' shows all of the files or folders in your current location
 - pwd meaning path (to) working directory shows the pathway from the root to the current directory.
+
+
+
+
+
+
+
+#### [Home](README.md)

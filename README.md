@@ -9,3 +9,7 @@ Hello, my name is Peyton. Welcome to my website that I am making through the use
 - [Growth Mindset](growth-mindset.md)
 - [Basics of Markdown](the-basics.md)
 - [Text Editors](text-editors.md)
+
+
+
+#### Link to author's page [here](https://github.com/Peyton-Cysewski).

@@ -13,4 +13,6 @@ As humans we all have a tendency to compare ourselves against the person next to
 
 
 
-### Link to author's page [here](https://github.com/Peyton-Cysewski).
+
+
+#### [Home](README.md)
