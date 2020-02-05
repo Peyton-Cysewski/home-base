@@ -17,3 +17,8 @@ There are a lot of html tags, but I wanted to highlight some of the ones that ar
 - <figure> and <figcaption> These are used when you want to represent an image with a caption. 'Figure' creates a "box" in which 'figcaption' can be placed.
 
 - <div> This is what used to be used for every subdivison of a website from the main section to the smaller articles. HTML5 added specific words, but the 'div' method still functions.
+
+
+
+
+#### [Home](README.md)

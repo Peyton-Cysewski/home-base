@@ -10,6 +10,7 @@ Hello, my name is Peyton. Welcome to my website that I am making through the use
 - [Basics of Markdown](the-basics.md)
 - [Text Editors](text-editors.md)
 - [About Git](git-info.md)
+- [HTML Creation and Structure](html-structure.md)
 
 
 
