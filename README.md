@@ -15,6 +15,7 @@ Hello, my name is Peyton. Welcome to my website that I am making through the use
 - [JavaScript Basics](javascript-intro.md)
 - [Computer Basics](computers.md)
 - [More on JavaScript and jQuery](js-and-jquery.md)
+- [Even More JavaScript](more-javascript.md)
 
 
 
