@@ -13,6 +13,7 @@ Hello, my name is Peyton. Welcome to my website that I am making through the use
 - [HTML Creation and Structure](html-structure.md)
 - [CSS Basics](css-intro.md)
 - [JavaScript Basics](javascript-intro.md)
+- [Computer Basics](computers.md)
 
 
 

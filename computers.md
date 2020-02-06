@@ -1,0 +1,8 @@
+# How Computers Work
+The main functions of all computers involve input, storage, processing and output. Input is anything that we can do to introduce new information to a computer from any source. A keyboard is the most common type of input, but sounds and videos are too. Next the computer stores these inputs, runs them through algorithms which are just series of commands, and stores the new data somewhere else. Once all these processes are complete, the data is ready to be output.
+
+Computers use electrical signals to represent 1s and 0s. Thes 1s and 0s are binary in nature and can in turn be used to represnt all data. This process revolves around the binary number system which can use the 1s and 0s to represent any number (up to some ridiculously high limits based on available space). Other information can then be represtend in terms of these numbers. So truly everythng can be represented and stored with 1s and 0s.
+
+Circuits that are within a computer allow calculations to take place. These are represented using logic gates that take one or more wires and makes them do something. A lot of the gates are simple, but if they are combined together they can be used to preform tasks like multiplication. These tasks by themselves are very simple and often trivial, but computers can do them at ridiculous speeds which is why they are superior for complex computing tasks.
+
+#### [Home](README.md)
