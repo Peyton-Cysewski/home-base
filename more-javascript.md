@@ -12,7 +12,7 @@
 
 ## Logical Operators
 - && acts as an 'AND' condition for two or more logical expressions. The expressions should be contained within parentheses.
-- || acts an 'OR' condition for two or more logical expressions.
+- \|\| acts an 'OR' condition for two or more logical expressions.
 - ! 'NOT' condition which inverts the Boolean value.
 
 ## Loops
